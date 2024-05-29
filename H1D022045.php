@@ -1,5 +1,4 @@
 <?php 
-
 public function definition(): array
     {
         return [
